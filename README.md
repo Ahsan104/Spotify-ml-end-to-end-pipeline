@@ -132,8 +132,8 @@ Seven models were trained and evaluated on an 80/20 train-test split with 5-fold
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Ahsan10426/ml-end-to-end-pipeline.git
-cd ml-end-to-end-pipeline
+git clone https://github.com/Ahsan104/Spotify-ml-end-to-end-pipeline.git
+cd Spotify-ml-end-to-end-pipeline
 
 # 2. Create virtual environment and install dependencies
 python3 -m venv .venv
@@ -176,7 +176,7 @@ jupyter lab
 ## Author
 
 **Muhammad Ahsan**
-[GitHub](https://github.com/Ahsan10426) · Machine Learning / Data Science
+[GitHub](https://github.com/Ahsan104) · Machine Learning / Data Science
 
 ---
 

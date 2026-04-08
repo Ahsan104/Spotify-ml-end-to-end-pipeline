@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "JupyterLab",
+      "runtimeExecutable": ".venv/bin/jupyter",
+      "runtimeArgs": ["lab", "--no-browser", "--port=8888", "--notebook-dir=."],
+      "port": 8888
+    },
+    {
+      "name": "Jupyter Notebook",
+      "runtimeExecutable": ".venv/bin/jupyter",
+      "runtimeArgs": ["notebook", "--no-browser", "--port=8889", "--notebook-dir=notebooks"],
+      "port": 8889
+    }
+  ]
+}
