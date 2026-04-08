@@ -3,6 +3,8 @@
 # 🎵 Spotify Track Popularity Prediction
 ### End-to-End Machine Learning Pipeline
 
+![Banner](assets/banner.png)
+
 *Predicting what makes a song popular — from raw audio features to a production-ready model*
 
 <br/>
