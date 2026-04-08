@@ -1,0 +1,40 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data — raw data is large; add processed if desired
+data/raw/*.csv
+data/processed/*.csv
+
+# Models — don't commit binary blobs to git
+models/*.pkl
+models/*.joblib
+
+# Reports output
+reports/figures/*.png
+reports/figures/*.jpg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
